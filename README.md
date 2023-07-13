@@ -1,5 +1,5 @@
 # PedroCard-SwiftUI
- <h1>Uma implementação de um cartão de apresentação usando SwiftUI</h1>
+ <h2>Uma implementação de um cartão de apresentação usando SwiftUI</h2>
  
 
 <div align="center">
