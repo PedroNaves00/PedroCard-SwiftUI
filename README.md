@@ -2,5 +2,6 @@
 Uma implementação de um cartão de apresentação usando SwiftUI
 
 <div align="center">
-img src="https://github.com/PedroNaves00/PedroCard-SwiftUI/issues/1#issue-1803590764" width="300px" /
+img src="https://github.com/PedroNaves00/PedroCard-SwiftUI/assets/100227087/8b8f67b6-a147-4e12-8964-62428f765fcd
+" width="300px"
 </div>
